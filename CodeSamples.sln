@@ -23,6 +23,12 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FindFlightRouthBetweenTwoDe
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BinaryTree", "Tree\BinaryTree.csproj", "{A3435846-B021-44A8-A5A3-587D0F4C5B89}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "String", "String", "{88788D11-6CEB-43C9-8E55-62487F6C5EE1}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "LinkedList", "LinkedList", "{3D0CE0A0-817B-481B-931B-2EC9AEA19E78}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConnectedLinkedLists", "ConnectedLinkedLists\ConnectedLinkedLists.csproj", "{77B233A6-B37A-4179-A57D-52AA43EF6796}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -53,6 +59,10 @@ Global
 		{A3435846-B021-44A8-A5A3-587D0F4C5B89}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A3435846-B021-44A8-A5A3-587D0F4C5B89}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A3435846-B021-44A8-A5A3-587D0F4C5B89}.Release|Any CPU.Build.0 = Release|Any CPU
+		{77B233A6-B37A-4179-A57D-52AA43EF6796}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{77B233A6-B37A-4179-A57D-52AA43EF6796}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{77B233A6-B37A-4179-A57D-52AA43EF6796}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{77B233A6-B37A-4179-A57D-52AA43EF6796}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -64,6 +74,7 @@ Global
 		{99070B34-51D3-42B2-B9CE-51B35C2FC71C} = {3110C6BC-1995-4FDE-BA86-B7C2EA54B1A9}
 		{D63B6B2B-15AC-4394-B2B1-9F32E8B6E0E0} = {12D97AB2-933D-43A1-8D96-0DD35A526809}
 		{A3435846-B021-44A8-A5A3-587D0F4C5B89} = {14F228BE-D6C8-4758-A112-1E9BE40796AD}
+		{77B233A6-B37A-4179-A57D-52AA43EF6796} = {3D0CE0A0-817B-481B-931B-2EC9AEA19E78}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {6B0630FB-B196-486E-A808-A3B6B8299876}
